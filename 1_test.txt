@@ -1,2 +1,3 @@
 1_test
 bad practice conflict resolution test
+added comment to commit
